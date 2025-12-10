@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Metabolic Health Tracker",
+  "description": "A modern, dark-mode metabolic health tracking application to monitor Glucose, Ketones, Weight, and G/K Ratios with trend visualization and multi-user support.",
+  "requestFramePermissions": []
+}
